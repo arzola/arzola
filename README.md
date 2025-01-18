@@ -32,7 +32,7 @@ I juggle with:
 - I believe trip-hop and coding share the same vibe - both are about finding rhythm in chaos
 - Yes, I bike in snowstorms. No, I'm not crazy (debatable)
 
-## 📫 Echáme un grito
+## 📫 Asómate aquí y me dices qué show
 (That's "Hit me up" but more Mexican)
 
 - [Twitter/X](https://twitter.com/init_sh) - Where I tweet about code, life, and why guacamole shouldn't cost extra
