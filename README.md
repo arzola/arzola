@@ -6,7 +6,7 @@ You'll probably find me biking around Rosemont looking for the perfect café con
 
 ## What I Do
 
-I work mostly with PHP (Laravel, don't @ me) and JavaScript, plus some React Native and Flutter when mobile projects come up. Currently doing a lot with the WordPress ecosystem at [Pressbooks](https://github.com/pressbooks) - turns out building educational publishing tools pays the bills pretty well.
+I work mostly with PHP (Laravel/WP, don't @ me) and JavaScript, plus some React Native and Flutter when mobile projects come up. Currently doing a lot with the WordPress ecosystem at [Pressbooks](https://github.com/pressbooks) - turns out building educational publishing tools pays the bills pretty well.
 
 The funny thing is, my mom still thinks I "fix computers and configure phones" for a living. Close enough, right?
 
