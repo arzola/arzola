@@ -1,47 +1,36 @@
-# 👋 I'm Os
+# Hey, I'm Os
 
-What's cooking? I'm that dev who somehow turns caffeine into code while blasting Portishead. Think of me as a digital albañil who builds stuff that doesn't fall apart (usually 😅).
+I'm a developer from Mexico City who somehow ended up in Montreal, and honestly? Best decision ever. Turns out this chilango actually loves winter - go figure.
 
-## 🇲🇽 The Essential Os
+You'll probably find me biking around Rosemont looking for the perfect café con leche, even when it's -20°C (yeah, I know, I'm that guy). When I'm not trying to explain to locals that "picante" won't actually kill them, I'm usually coding to some Jay Jay Johanson or Lhasa de Sela.
 
-Imagine a Mexican guy who traded tacos for poutine - yep, that's me, now living my best life in Montreal. Plot twist: turns out this chilango actually LOVES winter! You'll find me hunting for the perfect café con leche in Rosemont's coziest spots, leaving snowy bike tracks all over the city (yes, even in -20°C, call me loco). When I'm not trying to convince Canadians that "picante" doesn't mean death by spice, I'm:
+## What I Do
 
-- Vibing to Lhasa while coding in some hidden café corner (Lhasa de Sela makes bugs disappear, I swear)
-- Attempting to explain to my mom that no, I don't "fix printers, or configure androids" for a living
-- Mixing Mexican sarcasm with French Canadian politeness (it's an... interesting combo)
-- Mapping out every single bike path in Montreal like it's my personal mission
+I work mostly with PHP (Laravel, don't @ me) and JavaScript, plus some React Native and Flutter when mobile projects come up. Currently doing a lot with the WordPress ecosystem at [Pressbooks](https://github.com/pressbooks) - turns out building educational publishing tools pays the bills pretty well.
 
-## 💻 Mi Chamba (That's "My Work" for you non-Mexicans)
+The funny thing is, my mom still thinks I "fix computers and configure phones" for a living. Close enough, right?
 
-I juggle with (talachas):
-- JavaScript (porque el dolor es temporal)
-- PHP (don't judge, obviously Laravel)
-- WP plugins ecosystem [Pressbooks](https://github.com/pressbooks) (come on, it pays the bills)
-- React Native & Flutter (because apparently one mobile framework wasn't enough pain)
+## Side Projects
 
-## 🎵 When Not in la Chamba
+I'm building a couple things on the side:
+- **MotaMeet** - an app for connecting people, like a digital way to find your crew
+- **Desafío de hábitos** - basically guilt-tracking your failed resolutions, but in a helpful way
 
-- Getting lost in trip-hop rabbitholes (Elysian Fields is life)
-- I like music and I want to be better at it [Sometimes I play some stuff](https://www.youtube.com/@OsArz)
-- Building [MotaMeet](https://motameet.com) - an app for connecting people (like a digital compadre-finder)
-- Creating [Desafío de hábitos](https://desafiodehabitos.com) - because someone needs to guilt-track your failed New Year's resolutions
-- Finding new cafés to code in (my life is basically a tour of Montreal's best wifi spots)
+## When I'm Not Coding
 
-## 🌟 Random Facts That Nobody Asked For
+I'm pretty obsessed with trip-hop music - there's something about that rhythm that just works with coding. I mess around with music production too, though I'm still figuring that out. You can check out some of my attempts on [YouTube](https://www.youtube.com/@OsArz) if you're curious.
 
-- I once tried explaining React hooks to my taquero - he still makes better lifecycle decisions than me
-- My life, like my salsa preferences, ranges from "mild" to "why would you do this to yourself?"
-- I believe trip-hop and coding share the same vibe - both are about finding rhythm in chaos
-- Yes, I bike in snowstorms. No, I'm not crazy (debatable)
+Montreal's café scene has become my second office. I've probably worked from half the spots in the city by now, always hunting for that perfect corner with good wifi and better coffee.
 
-## 📫 Vámonos recio
-(That's "Hit me up" but more Mexican)
+## Random Stuff
 
-- [Twitter/X](https://twitter.com/init_sh) - Where I tweet about code, life, and why guacamole shouldn't cost extra
-- [LinkedIn](https://linkedin.com/in/oscararzola) - For the professional-ish version of me
-- [Email](mailto:os@icode.mx) - If you're old school like that
-- [Instagram](https://instagram.com/os.coder) - Where the FOMO resides
+I once tried explaining React hooks to my favorite taquero back home - he still makes better lifecycle decisions than most of my components. My relationship with spice levels mirrors my coding philosophy: ranges from "this is fine" to "why did I think this was a good idea?"
 
-¡Hasta la vista, baby!  
+And yeah, I really do bike in snowstorms. It's not as crazy as it sounds... okay, maybe it is.
 
-P.S. If you got this far, you deserve a virtual taco 🌮 (and maybe a hot wine for the cold Montreal days)
+## Get in Touch
+
+- [Twitter/X](https://twitter.com/init_sh) - Code thoughts and Montreal winter survival tips
+- [LinkedIn](https://linkedin.com/in/oscararzola) - The professional version
+- [Email](mailto:os@icode.mx) - Old school works too
+- [Instagram](https://instagram.com/os.coder) - Random life stuff
