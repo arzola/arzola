@@ -1,8 +1,8 @@
 # Hey, I'm Os
 
-I'm a developer from Mexico City who somehow ended up in Montreal, and honestly? Best decision ever. Turns out this chilango actually loves winter - go figure.
+I'm an eclectic developer from Mexico City who somehow ended up in Montreal, and honestly? Best decision ever. Turns out this chilango actually loves winter, go figure.
 
-You'll probably find me biking around Rosemont looking for the perfect café con leche, even when it's -20°C (yeah, I know, I'm that guy). When I'm not trying to explain to locals that "picante" won't actually kill them, I'm usually coding to some Jay Jay Johanson or Lhasa de Sela.
+You'll probably find me biking around Rosemont looking for the perfect café con leche, even when it's -20°C (yeah, I know, I'm that guy). When I'm not trying to explain to locals that "picante" won't actually kill them, I'm usually coding to some Jay Jay Johanson or Keren Ann.
 
 ## What I Do
 
@@ -18,13 +18,13 @@ I'm building a couple things on the side:
 
 ## When I'm Not Coding
 
-I'm pretty obsessed with trip-hop music - there's something about that rhythm that just works with coding. I mess around with music production too, though I'm still figuring that out. You can check out some of my attempts on [YouTube](https://www.youtube.com/@OsArz) if you're curious.
+I'm pretty obsessed with trip-hop music - there's something about that rhythm that just works with coding. I mess around with playing music too, though I'm still figuring that out. You can check out some of my attempts on [YouTube](https://www.youtube.com/@OsArz) if you're curious.
 
-Montreal's café scene has become my second office. I've probably worked from half the spots in the city by now, always hunting for that perfect corner with good wifi and better coffee.
+Montreal's café scene has become my second office. I've probably worked from half the spots in the city by now, always hunting for that perfect corner with good wifi and good coffee.
 
 ## Random Stuff
 
-I once tried explaining React hooks to my favorite taquero back home - he still makes better lifecycle decisions than most of my components. My relationship with spice levels mirrors my coding philosophy: ranges from "this is fine" to "why did I think this was a good idea?"
+My relationship with spice levels mirrors my coding philosophy: ranges from "this is fine" to "why did I think this was a good idea?"
 
 And yeah, I really do bike in snowstorms. It's not as crazy as it sounds... okay, maybe it is.
 
