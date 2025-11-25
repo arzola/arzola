@@ -6,7 +6,6 @@ You'll probably find me biking around Rosemont looking for the perfect café con
 
 ![Generated Image November 25, 2025 - 12_22PM](https://github.com/user-attachments/assets/75fe990a-67f4-4e26-aeeb-31153805d585)
 
-
 ## What I Do
 
 I work mostly with PHP (Laravel/WP, don't @ me) and JavaScript, plus some React Native and Flutter when mobile projects come up. Currently doing a lot with the WordPress ecosystem at [Pressbooks](https://github.com/pressbooks) - turns out building educational publishing tools pays the bills pretty well.
