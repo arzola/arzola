@@ -4,7 +4,7 @@ I'm an eclectic developer from Mexico City who somehow ended up in Montreal, and
 
 You'll probably find me biking around Rosemont looking for the perfect café con leche, even when it's -20°C (yeah, I know, I'm that guy). When I'm not trying to explain to locals that "picante" won't actually kill them, I'm usually coding to some Jay Jay Johanson or Keren Ann.
 
-![Generated Image November 25, 2025 - 12_22PM](https://github.com/user-attachments/assets/75fe990a-67f4-4e26-aeeb-31153805d585])
+![Generated Image November 25, 2025 - 12_22PM](https://github.com/user-attachments/assets/75fe990a-67f4-4e26-aeeb-31153805d585)
 
 ## What I Do
 
